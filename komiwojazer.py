@@ -174,15 +174,15 @@ def evolution(population, rodzice, costTable, passThreshold):
     print(datetime.datetime.now(), "Pula rodzicow, liczba osobnikow:", len(rodzice))
     print(datetime.datetime.now(), "ile osobnikow zostalo w populacji poczatkowej - wygina!:", len(population))
 
-    print(datetime.datetime.now(), "----> PRZED CROSSOVER population, liczba osobnikow:", len(population))
-    print(datetime.datetime.now(), "----> PRZED CROSSOVER rodzicow, liczba osobnikow:", len(rodzice))
+    # print(datetime.datetime.now(), "----> PRZED CROSSOVER population, liczba osobnikow:", len(population))
+    # print(datetime.datetime.now(), "----> PRZED CROSSOVER rodzicow, liczba osobnikow:", len(rodzice))
 
     newGeneration = krzyzowanieRodzicow(rodzice)
 
     print(datetime.datetime.now(), "DZIECI po krzyzowanie Rodzicow ---> new Generation", len(newGeneration))
 
-    print(datetime.datetime.now(), "----> na OUT population, liczba osobnikow:", len(population))
-    print(datetime.datetime.now(), "----> na OUT rodzicow, liczba osobnikow:", len(rodzice))
+    # print(datetime.datetime.now(), "----> na OUT population, liczba osobnikow:", len(population))
+    # print(datetime.datetime.now(), "----> na OUT rodzicow, liczba osobnikow:", len(rodzice))
 
     # zwroc dzieci czyli nowe pokolenie
     return newGeneration
