@@ -1,0 +1,920 @@
+Liczba miast: 100
+Liczba osobnikow poczatkowych: 350
+Liczba pokolen: 100
+
+-------- Tabela kosztow podrozy (10$ - 99$) --------
+[[83.  53.  46.  ... 61.  49.  47. ]
+ [53.  95.  29.5 ... 48.  13.  77. ]
+ [46.  29.5 24.  ... 68.  43.5 51. ]
+ ...
+ [61.  48.  68.  ... 53.  53.5 29.5]
+ [49.  13.  43.5 ... 53.5 65.  41.5]
+ [47.  77.  51.  ... 29.5 41.5 66. ]] 
+
+2022-02-28 04:25:48.954932 Poczatkowa populacja osobnikow:  350
+2022-02-28 04:25:48.954962 Ilosc osobnikow w populacji: 350
+2022-02-28 04:25:48.970583 Koszt minimalny/najkrotsza trasa 4849.5
+2022-02-28 04:25:48.970628 Koszt minimalny/najkrotsza trasa w poczatkowej populacji: 4849.5
+2022-02-28 04:25:48.970633 Tworzenie kolenych pokolen
+2022-02-28 04:25:48.970640 generations -- liczba osobników w 0 -> 1 pokoleniu 350
+2022-02-28 04:25:48.970648 -- pokolenie nr 1
+2022-02-28 04:25:48.970653 ----> na wejsciu population, liczba osobnikow: 350
+2022-02-28 04:25:48.970657 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:48.986909 Pula rodzicow, liczba osobnikow: 175
+2022-02-28 04:25:48.986930 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.012172 DZIECI po krzyzowanie Rodzicow ---> new Generation 348
+2022-02-28 04:25:49.012263 -- generations -- liczba osobników w nowym pokoleniu 348
+2022-02-28 04:25:49.027281 Koszt minimalny/najkrotsza trasa 4816.0
+2022-02-28 04:25:49.027316 Koszt minimalny/najkrotsza trasa dla pokolenia nr 1 : 4816.0
+2022-02-28 04:25:49.027323 -- pokolenie nr 2
+2022-02-28 04:25:49.027328 ----> na wejsciu population, liczba osobnikow: 348
+2022-02-28 04:25:49.027332 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.043962 Pula rodzicow, liczba osobnikow: 174
+2022-02-28 04:25:49.043982 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.059273 DZIECI po krzyzowanie Rodzicow ---> new Generation 346
+2022-02-28 04:25:49.059421 -- generations -- liczba osobników w nowym pokoleniu 346
+2022-02-28 04:25:49.075277 Koszt minimalny/najkrotsza trasa 4720.0
+2022-02-28 04:25:49.075319 Koszt minimalny/najkrotsza trasa dla pokolenia nr 2 : 4720.0
+2022-02-28 04:25:49.075326 -- pokolenie nr 3
+2022-02-28 04:25:49.075331 ----> na wejsciu population, liczba osobnikow: 346
+2022-02-28 04:25:49.075336 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.091332 Pula rodzicow, liczba osobnikow: 173
+2022-02-28 04:25:49.091351 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.104548 DZIECI po krzyzowanie Rodzicow ---> new Generation 344
+2022-02-28 04:25:49.104672 -- generations -- liczba osobników w nowym pokoleniu 344
+2022-02-28 04:25:49.118915 Koszt minimalny/najkrotsza trasa 4756.5
+2022-02-28 04:25:49.118951 Koszt minimalny/najkrotsza trasa dla pokolenia nr 3 : 4756.5
+2022-02-28 04:25:49.118957 -- pokolenie nr 4
+2022-02-28 04:25:49.118961 ----> na wejsciu population, liczba osobnikow: 344
+2022-02-28 04:25:49.118965 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.134495 Pula rodzicow, liczba osobnikow: 172
+2022-02-28 04:25:49.134511 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.148769 DZIECI po krzyzowanie Rodzicow ---> new Generation 342
+2022-02-28 04:25:49.148892 -- generations -- liczba osobników w nowym pokoleniu 342
+2022-02-28 04:25:49.162959 Koszt minimalny/najkrotsza trasa 4690.0
+2022-02-28 04:25:49.162988 Koszt minimalny/najkrotsza trasa dla pokolenia nr 4 : 4690.0
+2022-02-28 04:25:49.162994 -- pokolenie nr 5
+2022-02-28 04:25:49.162999 ----> na wejsciu population, liczba osobnikow: 342
+2022-02-28 04:25:49.163002 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.178660 Pula rodzicow, liczba osobnikow: 171
+2022-02-28 04:25:49.178675 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.191167 DZIECI po krzyzowanie Rodzicow ---> new Generation 340
+2022-02-28 04:25:49.191277 -- generations -- liczba osobników w nowym pokoleniu 340
+2022-02-28 04:25:49.205659 Koszt minimalny/najkrotsza trasa 4513.0
+2022-02-28 04:25:49.205701 Koszt minimalny/najkrotsza trasa dla pokolenia nr 5 : 4513.0
+2022-02-28 04:25:49.205708 -- pokolenie nr 6
+2022-02-28 04:25:49.205713 ----> na wejsciu population, liczba osobnikow: 340
+2022-02-28 04:25:49.205717 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.221230 Pula rodzicow, liczba osobnikow: 170
+2022-02-28 04:25:49.221249 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.233975 DZIECI po krzyzowanie Rodzicow ---> new Generation 338
+2022-02-28 04:25:49.234141 -- generations -- liczba osobników w nowym pokoleniu 338
+2022-02-28 04:25:49.248523 Koszt minimalny/najkrotsza trasa 4605.5
+2022-02-28 04:25:49.248565 Koszt minimalny/najkrotsza trasa dla pokolenia nr 6 : 4605.5
+2022-02-28 04:25:49.248571 -- pokolenie nr 7
+2022-02-28 04:25:49.248576 ----> na wejsciu population, liczba osobnikow: 338
+2022-02-28 04:25:49.248580 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.264744 Pula rodzicow, liczba osobnikow: 169
+2022-02-28 04:25:49.264761 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.277879 DZIECI po krzyzowanie Rodzicow ---> new Generation 336
+2022-02-28 04:25:49.277976 -- generations -- liczba osobników w nowym pokoleniu 336
+2022-02-28 04:25:49.291604 Koszt minimalny/najkrotsza trasa 4553.0
+2022-02-28 04:25:49.291644 Koszt minimalny/najkrotsza trasa dla pokolenia nr 7 : 4553.0
+2022-02-28 04:25:49.291649 -- pokolenie nr 8
+2022-02-28 04:25:49.291654 ----> na wejsciu population, liczba osobnikow: 336
+2022-02-28 04:25:49.291658 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.307275 Pula rodzicow, liczba osobnikow: 168
+2022-02-28 04:25:49.307292 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.320424 DZIECI po krzyzowanie Rodzicow ---> new Generation 334
+2022-02-28 04:25:49.320549 -- generations -- liczba osobników w nowym pokoleniu 334
+2022-02-28 04:25:49.334351 Koszt minimalny/najkrotsza trasa 4500.0
+2022-02-28 04:25:49.334391 Koszt minimalny/najkrotsza trasa dla pokolenia nr 8 : 4500.0
+2022-02-28 04:25:49.334397 -- pokolenie nr 9
+2022-02-28 04:25:49.334402 ----> na wejsciu population, liczba osobnikow: 334
+2022-02-28 04:25:49.334406 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.349595 Pula rodzicow, liczba osobnikow: 167
+2022-02-28 04:25:49.349612 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.363719 DZIECI po krzyzowanie Rodzicow ---> new Generation 332
+2022-02-28 04:25:49.363868 -- generations -- liczba osobników w nowym pokoleniu 332
+2022-02-28 04:25:49.377289 Koszt minimalny/najkrotsza trasa 4483.5
+2022-02-28 04:25:49.377314 Koszt minimalny/najkrotsza trasa dla pokolenia nr 9 : 4483.5
+2022-02-28 04:25:49.377319 -- pokolenie nr 10
+2022-02-28 04:25:49.377324 ----> na wejsciu population, liczba osobnikow: 332
+2022-02-28 04:25:49.377327 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.393086 Pula rodzicow, liczba osobnikow: 166
+2022-02-28 04:25:49.393101 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.406152 DZIECI po krzyzowanie Rodzicow ---> new Generation 330
+2022-02-28 04:25:49.406264 -- generations -- liczba osobników w nowym pokoleniu 330
+2022-02-28 04:25:49.420045 Koszt minimalny/najkrotsza trasa 4407.5
+2022-02-28 04:25:49.420084 Koszt minimalny/najkrotsza trasa dla pokolenia nr 10 : 4407.5
+2022-02-28 04:25:49.420091 -- pokolenie nr 11
+2022-02-28 04:25:49.420096 ----> na wejsciu population, liczba osobnikow: 330
+2022-02-28 04:25:49.420100 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.435333 Pula rodzicow, liczba osobnikow: 165
+2022-02-28 04:25:49.435354 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.449192 DZIECI po krzyzowanie Rodzicow ---> new Generation 328
+2022-02-28 04:25:49.449331 -- generations -- liczba osobników w nowym pokoleniu 328
+2022-02-28 04:25:49.462701 Koszt minimalny/najkrotsza trasa 4446.0
+2022-02-28 04:25:49.462728 Koszt minimalny/najkrotsza trasa dla pokolenia nr 11 : 4446.0
+2022-02-28 04:25:49.462734 -- pokolenie nr 12
+2022-02-28 04:25:49.462738 ----> na wejsciu population, liczba osobnikow: 328
+2022-02-28 04:25:49.462866 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.478266 Pula rodzicow, liczba osobnikow: 164
+2022-02-28 04:25:49.478289 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.491195 DZIECI po krzyzowanie Rodzicow ---> new Generation 326
+2022-02-28 04:25:49.491307 -- generations -- liczba osobników w nowym pokoleniu 326
+2022-02-28 04:25:49.504833 Koszt minimalny/najkrotsza trasa 4435.5
+2022-02-28 04:25:49.504870 Koszt minimalny/najkrotsza trasa dla pokolenia nr 12 : 4435.5
+2022-02-28 04:25:49.504876 -- pokolenie nr 13
+2022-02-28 04:25:49.504881 ----> na wejsciu population, liczba osobnikow: 326
+2022-02-28 04:25:49.504886 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.519873 Pula rodzicow, liczba osobnikow: 163
+2022-02-28 04:25:49.519888 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.532560 DZIECI po krzyzowanie Rodzicow ---> new Generation 324
+2022-02-28 04:25:49.532684 -- generations -- liczba osobników w nowym pokoleniu 324
+2022-02-28 04:25:49.546048 Koszt minimalny/najkrotsza trasa 4361.0
+2022-02-28 04:25:49.546078 Koszt minimalny/najkrotsza trasa dla pokolenia nr 13 : 4361.0
+2022-02-28 04:25:49.546083 -- pokolenie nr 14
+2022-02-28 04:25:49.546089 ----> na wejsciu population, liczba osobnikow: 324
+2022-02-28 04:25:49.546092 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.560898 Pula rodzicow, liczba osobnikow: 162
+2022-02-28 04:25:49.560912 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.573343 DZIECI po krzyzowanie Rodzicow ---> new Generation 322
+2022-02-28 04:25:49.573454 -- generations -- liczba osobników w nowym pokoleniu 322
+2022-02-28 04:25:49.587072 Koszt minimalny/najkrotsza trasa 4401.0
+2022-02-28 04:25:49.587113 Koszt minimalny/najkrotsza trasa dla pokolenia nr 14 : 4401.0
+2022-02-28 04:25:49.587120 -- pokolenie nr 15
+2022-02-28 04:25:49.587125 ----> na wejsciu population, liczba osobnikow: 322
+2022-02-28 04:25:49.587130 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.602118 Pula rodzicow, liczba osobnikow: 161
+2022-02-28 04:25:49.602136 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.615532 DZIECI po krzyzowanie Rodzicow ---> new Generation 320
+2022-02-28 04:25:49.615660 -- generations -- liczba osobników w nowym pokoleniu 320
+2022-02-28 04:25:49.628999 Koszt minimalny/najkrotsza trasa 4390.0
+2022-02-28 04:25:49.629039 Koszt minimalny/najkrotsza trasa dla pokolenia nr 15 : 4390.0
+2022-02-28 04:25:49.629045 -- pokolenie nr 16
+2022-02-28 04:25:49.629049 ----> na wejsciu population, liczba osobnikow: 320
+2022-02-28 04:25:49.629052 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.643469 Pula rodzicow, liczba osobnikow: 160
+2022-02-28 04:25:49.643484 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.656002 DZIECI po krzyzowanie Rodzicow ---> new Generation 318
+2022-02-28 04:25:49.656142 -- generations -- liczba osobników w nowym pokoleniu 318
+2022-02-28 04:25:49.669727 Koszt minimalny/najkrotsza trasa 4339.5
+2022-02-28 04:25:49.669766 Koszt minimalny/najkrotsza trasa dla pokolenia nr 16 : 4339.5
+2022-02-28 04:25:49.669772 -- pokolenie nr 17
+2022-02-28 04:25:49.669778 ----> na wejsciu population, liczba osobnikow: 318
+2022-02-28 04:25:49.669782 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.684260 Pula rodzicow, liczba osobnikow: 159
+2022-02-28 04:25:49.684276 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.696348 DZIECI po krzyzowanie Rodzicow ---> new Generation 316
+2022-02-28 04:25:49.696472 -- generations -- liczba osobników w nowym pokoleniu 316
+2022-02-28 04:25:49.709548 Koszt minimalny/najkrotsza trasa 4400.5
+2022-02-28 04:25:49.709581 Koszt minimalny/najkrotsza trasa dla pokolenia nr 17 : 4400.5
+2022-02-28 04:25:49.709587 -- pokolenie nr 18
+2022-02-28 04:25:49.709591 ----> na wejsciu population, liczba osobnikow: 316
+2022-02-28 04:25:49.709595 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.724197 Pula rodzicow, liczba osobnikow: 158
+2022-02-28 04:25:49.724213 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.735900 DZIECI po krzyzowanie Rodzicow ---> new Generation 314
+2022-02-28 04:25:49.735997 -- generations -- liczba osobników w nowym pokoleniu 314
+2022-02-28 04:25:49.749026 Koszt minimalny/najkrotsza trasa 4382.0
+2022-02-28 04:25:49.749061 Koszt minimalny/najkrotsza trasa dla pokolenia nr 18 : 4382.0
+2022-02-28 04:25:49.749066 -- pokolenie nr 19
+2022-02-28 04:25:49.749071 ----> na wejsciu population, liczba osobnikow: 314
+2022-02-28 04:25:49.749075 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.763364 Pula rodzicow, liczba osobnikow: 157
+2022-02-28 04:25:49.763381 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.775814 DZIECI po krzyzowanie Rodzicow ---> new Generation 312
+2022-02-28 04:25:49.775902 -- generations -- liczba osobników w nowym pokoleniu 312
+2022-02-28 04:25:49.788980 Koszt minimalny/najkrotsza trasa 4335.5
+2022-02-28 04:25:49.789018 Koszt minimalny/najkrotsza trasa dla pokolenia nr 19 : 4335.5
+2022-02-28 04:25:49.789023 -- pokolenie nr 20
+2022-02-28 04:25:49.789028 ----> na wejsciu population, liczba osobnikow: 312
+2022-02-28 04:25:49.789032 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.803065 Pula rodzicow, liczba osobnikow: 156
+2022-02-28 04:25:49.803082 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.815390 DZIECI po krzyzowanie Rodzicow ---> new Generation 310
+2022-02-28 04:25:49.815499 -- generations -- liczba osobników w nowym pokoleniu 310
+2022-02-28 04:25:49.828041 Koszt minimalny/najkrotsza trasa 4364.5
+2022-02-28 04:25:49.828074 Koszt minimalny/najkrotsza trasa dla pokolenia nr 20 : 4364.5
+2022-02-28 04:25:49.828080 -- pokolenie nr 21
+2022-02-28 04:25:49.828085 ----> na wejsciu population, liczba osobnikow: 310
+2022-02-28 04:25:49.828089 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.842202 Pula rodzicow, liczba osobnikow: 155
+2022-02-28 04:25:49.842219 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.854669 DZIECI po krzyzowanie Rodzicow ---> new Generation 308
+2022-02-28 04:25:49.854810 -- generations -- liczba osobników w nowym pokoleniu 308
+2022-02-28 04:25:49.867764 Koszt minimalny/najkrotsza trasa 4259.0
+2022-02-28 04:25:49.867804 Koszt minimalny/najkrotsza trasa dla pokolenia nr 21 : 4259.0
+2022-02-28 04:25:49.867810 -- pokolenie nr 22
+2022-02-28 04:25:49.867815 ----> na wejsciu population, liczba osobnikow: 308
+2022-02-28 04:25:49.867819 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.882041 Pula rodzicow, liczba osobnikow: 154
+2022-02-28 04:25:49.882055 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.893882 DZIECI po krzyzowanie Rodzicow ---> new Generation 306
+2022-02-28 04:25:49.893962 -- generations -- liczba osobników w nowym pokoleniu 306
+2022-02-28 04:25:49.906888 Koszt minimalny/najkrotsza trasa 4371.5
+2022-02-28 04:25:49.906926 Koszt minimalny/najkrotsza trasa dla pokolenia nr 22 : 4371.5
+2022-02-28 04:25:49.906932 -- pokolenie nr 23
+2022-02-28 04:25:49.906937 ----> na wejsciu population, liczba osobnikow: 306
+2022-02-28 04:25:49.906941 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.921322 Pula rodzicow, liczba osobnikow: 153
+2022-02-28 04:25:49.921339 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.933148 DZIECI po krzyzowanie Rodzicow ---> new Generation 304
+2022-02-28 04:25:49.933250 -- generations -- liczba osobników w nowym pokoleniu 304
+2022-02-28 04:25:49.945710 Koszt minimalny/najkrotsza trasa 4245.5
+2022-02-28 04:25:49.945745 Koszt minimalny/najkrotsza trasa dla pokolenia nr 23 : 4245.5
+2022-02-28 04:25:49.945750 -- pokolenie nr 24
+2022-02-28 04:25:49.945755 ----> na wejsciu population, liczba osobnikow: 304
+2022-02-28 04:25:49.945760 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.959146 Pula rodzicow, liczba osobnikow: 152
+2022-02-28 04:25:49.959245 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:49.971396 DZIECI po krzyzowanie Rodzicow ---> new Generation 302
+2022-02-28 04:25:49.971517 -- generations -- liczba osobników w nowym pokoleniu 302
+2022-02-28 04:25:49.984351 Koszt minimalny/najkrotsza trasa 4306.5
+2022-02-28 04:25:49.984388 Koszt minimalny/najkrotsza trasa dla pokolenia nr 24 : 4306.5
+2022-02-28 04:25:49.984395 -- pokolenie nr 25
+2022-02-28 04:25:49.984400 ----> na wejsciu population, liczba osobnikow: 302
+2022-02-28 04:25:49.984404 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:49.998245 Pula rodzicow, liczba osobnikow: 151
+2022-02-28 04:25:49.998261 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.011972 DZIECI po krzyzowanie Rodzicow ---> new Generation 300
+2022-02-28 04:25:50.012112 -- generations -- liczba osobników w nowym pokoleniu 300
+2022-02-28 04:25:50.024732 Koszt minimalny/najkrotsza trasa 4308.0
+2022-02-28 04:25:50.024763 Koszt minimalny/najkrotsza trasa dla pokolenia nr 25 : 4308.0
+2022-02-28 04:25:50.024771 -- pokolenie nr 26
+2022-02-28 04:25:50.024775 ----> na wejsciu population, liczba osobnikow: 300
+2022-02-28 04:25:50.024779 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.038680 Pula rodzicow, liczba osobnikow: 150
+2022-02-28 04:25:50.038695 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.050273 DZIECI po krzyzowanie Rodzicow ---> new Generation 298
+2022-02-28 04:25:50.050414 -- generations -- liczba osobników w nowym pokoleniu 298
+2022-02-28 04:25:50.062766 Koszt minimalny/najkrotsza trasa 4267.5
+2022-02-28 04:25:50.062796 Koszt minimalny/najkrotsza trasa dla pokolenia nr 26 : 4267.5
+2022-02-28 04:25:50.062802 -- pokolenie nr 27
+2022-02-28 04:25:50.062808 ----> na wejsciu population, liczba osobnikow: 298
+2022-02-28 04:25:50.062811 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.076354 Pula rodzicow, liczba osobnikow: 149
+2022-02-28 04:25:50.076371 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.087746 DZIECI po krzyzowanie Rodzicow ---> new Generation 296
+2022-02-28 04:25:50.087869 -- generations -- liczba osobników w nowym pokoleniu 296
+2022-02-28 04:25:50.100221 Koszt minimalny/najkrotsza trasa 4204.5
+2022-02-28 04:25:50.100255 Koszt minimalny/najkrotsza trasa dla pokolenia nr 27 : 4204.5
+2022-02-28 04:25:50.100261 -- pokolenie nr 28
+2022-02-28 04:25:50.100266 ----> na wejsciu population, liczba osobnikow: 296
+2022-02-28 04:25:50.100270 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.113545 Pula rodzicow, liczba osobnikow: 148
+2022-02-28 04:25:50.113561 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.125244 DZIECI po krzyzowanie Rodzicow ---> new Generation 294
+2022-02-28 04:25:50.125339 -- generations -- liczba osobników w nowym pokoleniu 294
+2022-02-28 04:25:50.137649 Koszt minimalny/najkrotsza trasa 4272.5
+2022-02-28 04:25:50.137684 Koszt minimalny/najkrotsza trasa dla pokolenia nr 28 : 4272.5
+2022-02-28 04:25:50.137691 -- pokolenie nr 29
+2022-02-28 04:25:50.137696 ----> na wejsciu population, liczba osobnikow: 294
+2022-02-28 04:25:50.137700 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.151283 Pula rodzicow, liczba osobnikow: 147
+2022-02-28 04:25:50.151301 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.162663 DZIECI po krzyzowanie Rodzicow ---> new Generation 292
+2022-02-28 04:25:50.162793 -- generations -- liczba osobników w nowym pokoleniu 292
+2022-02-28 04:25:50.175044 Koszt minimalny/najkrotsza trasa 4270.5
+2022-02-28 04:25:50.175074 Koszt minimalny/najkrotsza trasa dla pokolenia nr 29 : 4270.5
+2022-02-28 04:25:50.175080 -- pokolenie nr 30
+2022-02-28 04:25:50.175085 ----> na wejsciu population, liczba osobnikow: 292
+2022-02-28 04:25:50.175089 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.188502 Pula rodzicow, liczba osobnikow: 146
+2022-02-28 04:25:50.188517 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.199872 DZIECI po krzyzowanie Rodzicow ---> new Generation 290
+2022-02-28 04:25:50.199979 -- generations -- liczba osobników w nowym pokoleniu 290
+2022-02-28 04:25:50.211932 Koszt minimalny/najkrotsza trasa 4253.5
+2022-02-28 04:25:50.211964 Koszt minimalny/najkrotsza trasa dla pokolenia nr 30 : 4253.5
+2022-02-28 04:25:50.211970 -- pokolenie nr 31
+2022-02-28 04:25:50.211975 ----> na wejsciu population, liczba osobnikow: 290
+2022-02-28 04:25:50.211979 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.224917 Pula rodzicow, liczba osobnikow: 145
+2022-02-28 04:25:50.224931 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.235967 DZIECI po krzyzowanie Rodzicow ---> new Generation 288
+2022-02-28 04:25:50.236065 -- generations -- liczba osobników w nowym pokoleniu 288
+2022-02-28 04:25:50.248119 Koszt minimalny/najkrotsza trasa 4269.5
+2022-02-28 04:25:50.248158 Koszt minimalny/najkrotsza trasa dla pokolenia nr 31 : 4269.5
+2022-02-28 04:25:50.248164 -- pokolenie nr 32
+2022-02-28 04:25:50.248169 ----> na wejsciu population, liczba osobnikow: 288
+2022-02-28 04:25:50.248173 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.261410 Pula rodzicow, liczba osobnikow: 144
+2022-02-28 04:25:50.261433 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.272768 DZIECI po krzyzowanie Rodzicow ---> new Generation 286
+2022-02-28 04:25:50.272896 -- generations -- liczba osobników w nowym pokoleniu 286
+2022-02-28 04:25:50.285210 Koszt minimalny/najkrotsza trasa 4301.0
+2022-02-28 04:25:50.285248 Koszt minimalny/najkrotsza trasa dla pokolenia nr 32 : 4301.0
+2022-02-28 04:25:50.285255 -- pokolenie nr 33
+2022-02-28 04:25:50.285260 ----> na wejsciu population, liczba osobnikow: 286
+2022-02-28 04:25:50.285264 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.298387 Pula rodzicow, liczba osobnikow: 143
+2022-02-28 04:25:50.298404 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.309921 DZIECI po krzyzowanie Rodzicow ---> new Generation 284
+2022-02-28 04:25:50.310013 -- generations -- liczba osobników w nowym pokoleniu 284
+2022-02-28 04:25:50.321999 Koszt minimalny/najkrotsza trasa 4181.0
+2022-02-28 04:25:50.322037 Koszt minimalny/najkrotsza trasa dla pokolenia nr 33 : 4181.0
+2022-02-28 04:25:50.322043 -- pokolenie nr 34
+2022-02-28 04:25:50.322048 ----> na wejsciu population, liczba osobnikow: 284
+2022-02-28 04:25:50.322051 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.335414 Pula rodzicow, liczba osobnikow: 142
+2022-02-28 04:25:50.335431 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.347242 DZIECI po krzyzowanie Rodzicow ---> new Generation 282
+2022-02-28 04:25:50.347370 -- generations -- liczba osobników w nowym pokoleniu 282
+2022-02-28 04:25:50.358797 Koszt minimalny/najkrotsza trasa 4227.0
+2022-02-28 04:25:50.358820 Koszt minimalny/najkrotsza trasa dla pokolenia nr 34 : 4227.0
+2022-02-28 04:25:50.358826 -- pokolenie nr 35
+2022-02-28 04:25:50.358830 ----> na wejsciu population, liczba osobnikow: 282
+2022-02-28 04:25:50.358833 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.371619 Pula rodzicow, liczba osobnikow: 141
+2022-02-28 04:25:50.371635 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.382900 DZIECI po krzyzowanie Rodzicow ---> new Generation 280
+2022-02-28 04:25:50.383013 -- generations -- liczba osobników w nowym pokoleniu 280
+2022-02-28 04:25:50.394543 Koszt minimalny/najkrotsza trasa 4145.5
+2022-02-28 04:25:50.394569 Koszt minimalny/najkrotsza trasa dla pokolenia nr 35 : 4145.5
+2022-02-28 04:25:50.394575 -- pokolenie nr 36
+2022-02-28 04:25:50.394579 ----> na wejsciu population, liczba osobnikow: 280
+2022-02-28 04:25:50.394583 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.407273 Pula rodzicow, liczba osobnikow: 140
+2022-02-28 04:25:50.407289 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.418045 DZIECI po krzyzowanie Rodzicow ---> new Generation 278
+2022-02-28 04:25:50.418225 -- generations -- liczba osobników w nowym pokoleniu 278
+2022-02-28 04:25:50.429691 Koszt minimalny/najkrotsza trasa 4208.0
+2022-02-28 04:25:50.429717 Koszt minimalny/najkrotsza trasa dla pokolenia nr 36 : 4208.0
+2022-02-28 04:25:50.429723 -- pokolenie nr 37
+2022-02-28 04:25:50.429727 ----> na wejsciu population, liczba osobnikow: 278
+2022-02-28 04:25:50.429731 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.442246 Pula rodzicow, liczba osobnikow: 139
+2022-02-28 04:25:50.442254 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.452544 DZIECI po krzyzowanie Rodzicow ---> new Generation 276
+2022-02-28 04:25:50.452693 -- generations -- liczba osobników w nowym pokoleniu 276
+2022-02-28 04:25:50.464913 Koszt minimalny/najkrotsza trasa 4152.5
+2022-02-28 04:25:50.464952 Koszt minimalny/najkrotsza trasa dla pokolenia nr 37 : 4152.5
+2022-02-28 04:25:50.464961 -- pokolenie nr 38
+2022-02-28 04:25:50.464967 ----> na wejsciu population, liczba osobnikow: 276
+2022-02-28 04:25:50.464972 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.477167 Pula rodzicow, liczba osobnikow: 138
+2022-02-28 04:25:50.477174 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.489069 DZIECI po krzyzowanie Rodzicow ---> new Generation 274
+2022-02-28 04:25:50.489169 -- generations -- liczba osobników w nowym pokoleniu 274
+2022-02-28 04:25:50.500706 Koszt minimalny/najkrotsza trasa 4138.5
+2022-02-28 04:25:50.500743 Koszt minimalny/najkrotsza trasa dla pokolenia nr 38 : 4138.5
+2022-02-28 04:25:50.500749 -- pokolenie nr 39
+2022-02-28 04:25:50.500754 ----> na wejsciu population, liczba osobnikow: 274
+2022-02-28 04:25:50.500757 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.513325 Pula rodzicow, liczba osobnikow: 137
+2022-02-28 04:25:50.513389 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.524028 DZIECI po krzyzowanie Rodzicow ---> new Generation 272
+2022-02-28 04:25:50.524122 -- generations -- liczba osobników w nowym pokoleniu 272
+2022-02-28 04:25:50.535618 Koszt minimalny/najkrotsza trasa 4186.5
+2022-02-28 04:25:50.535652 Koszt minimalny/najkrotsza trasa dla pokolenia nr 39 : 4186.5
+2022-02-28 04:25:50.535658 -- pokolenie nr 40
+2022-02-28 04:25:50.535664 ----> na wejsciu population, liczba osobnikow: 272
+2022-02-28 04:25:50.535668 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.548436 Pula rodzicow, liczba osobnikow: 136
+2022-02-28 04:25:50.548450 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.558922 DZIECI po krzyzowanie Rodzicow ---> new Generation 270
+2022-02-28 04:25:50.558997 -- generations -- liczba osobników w nowym pokoleniu 270
+2022-02-28 04:25:50.570421 Koszt minimalny/najkrotsza trasa 4084.0
+2022-02-28 04:25:50.570465 Koszt minimalny/najkrotsza trasa dla pokolenia nr 40 : 4084.0
+2022-02-28 04:25:50.570471 -- pokolenie nr 41
+2022-02-28 04:25:50.570477 ----> na wejsciu population, liczba osobnikow: 270
+2022-02-28 04:25:50.570481 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.582901 Pula rodzicow, liczba osobnikow: 135
+2022-02-28 04:25:50.582916 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.593219 DZIECI po krzyzowanie Rodzicow ---> new Generation 268
+2022-02-28 04:25:50.593289 -- generations -- liczba osobników w nowym pokoleniu 268
+2022-02-28 04:25:50.604496 Koszt minimalny/najkrotsza trasa 4151.5
+2022-02-28 04:25:50.604532 Koszt minimalny/najkrotsza trasa dla pokolenia nr 41 : 4151.5
+2022-02-28 04:25:50.604538 -- pokolenie nr 42
+2022-02-28 04:25:50.604545 ----> na wejsciu population, liczba osobnikow: 268
+2022-02-28 04:25:50.604549 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.617341 Pula rodzicow, liczba osobnikow: 134
+2022-02-28 04:25:50.617359 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.627953 DZIECI po krzyzowanie Rodzicow ---> new Generation 266
+2022-02-28 04:25:50.628038 -- generations -- liczba osobników w nowym pokoleniu 266
+2022-02-28 04:25:50.639334 Koszt minimalny/najkrotsza trasa 4168.5
+2022-02-28 04:25:50.639369 Koszt minimalny/najkrotsza trasa dla pokolenia nr 42 : 4168.5
+2022-02-28 04:25:50.639375 -- pokolenie nr 43
+2022-02-28 04:25:50.639380 ----> na wejsciu population, liczba osobnikow: 266
+2022-02-28 04:25:50.639384 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.651875 Pula rodzicow, liczba osobnikow: 133
+2022-02-28 04:25:50.651896 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.662206 DZIECI po krzyzowanie Rodzicow ---> new Generation 264
+2022-02-28 04:25:50.662324 -- generations -- liczba osobników w nowym pokoleniu 264
+2022-02-28 04:25:50.673305 Koszt minimalny/najkrotsza trasa 3996.5
+2022-02-28 04:25:50.673336 Koszt minimalny/najkrotsza trasa dla pokolenia nr 43 : 3996.5
+2022-02-28 04:25:50.673342 -- pokolenie nr 44
+2022-02-28 04:25:50.673346 ----> na wejsciu population, liczba osobnikow: 264
+2022-02-28 04:25:50.673350 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.685469 Pula rodzicow, liczba osobnikow: 132
+2022-02-28 04:25:50.685485 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.696393 DZIECI po krzyzowanie Rodzicow ---> new Generation 262
+2022-02-28 04:25:50.696481 -- generations -- liczba osobników w nowym pokoleniu 262
+2022-02-28 04:25:50.707235 Koszt minimalny/najkrotsza trasa 4172.0
+2022-02-28 04:25:50.707263 Koszt minimalny/najkrotsza trasa dla pokolenia nr 44 : 4172.0
+2022-02-28 04:25:50.707268 -- pokolenie nr 45
+2022-02-28 04:25:50.707272 ----> na wejsciu population, liczba osobnikow: 262
+2022-02-28 04:25:50.707276 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.718931 Pula rodzicow, liczba osobnikow: 131
+2022-02-28 04:25:50.718945 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.729684 DZIECI po krzyzowanie Rodzicow ---> new Generation 260
+2022-02-28 04:25:50.729784 -- generations -- liczba osobników w nowym pokoleniu 260
+2022-02-28 04:25:50.740853 Koszt minimalny/najkrotsza trasa 4174.0
+2022-02-28 04:25:50.740881 Koszt minimalny/najkrotsza trasa dla pokolenia nr 45 : 4174.0
+2022-02-28 04:25:50.740887 -- pokolenie nr 46
+2022-02-28 04:25:50.740891 ----> na wejsciu population, liczba osobnikow: 260
+2022-02-28 04:25:50.740895 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.753095 Pula rodzicow, liczba osobnikow: 130
+2022-02-28 04:25:50.753111 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.762950 DZIECI po krzyzowanie Rodzicow ---> new Generation 258
+2022-02-28 04:25:50.763027 -- generations -- liczba osobników w nowym pokoleniu 258
+2022-02-28 04:25:50.773870 Koszt minimalny/najkrotsza trasa 3965.5
+2022-02-28 04:25:50.773899 Koszt minimalny/najkrotsza trasa dla pokolenia nr 46 : 3965.5
+2022-02-28 04:25:50.773905 -- pokolenie nr 47
+2022-02-28 04:25:50.773909 ----> na wejsciu population, liczba osobnikow: 258
+2022-02-28 04:25:50.773914 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.785553 Pula rodzicow, liczba osobnikow: 129
+2022-02-28 04:25:50.785568 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.796386 DZIECI po krzyzowanie Rodzicow ---> new Generation 256
+2022-02-28 04:25:50.796518 -- generations -- liczba osobników w nowym pokoleniu 256
+2022-02-28 04:25:50.806926 Koszt minimalny/najkrotsza trasa 4037.0
+2022-02-28 04:25:50.806954 Koszt minimalny/najkrotsza trasa dla pokolenia nr 47 : 4037.0
+2022-02-28 04:25:50.806960 -- pokolenie nr 48
+2022-02-28 04:25:50.806964 ----> na wejsciu population, liczba osobnikow: 256
+2022-02-28 04:25:50.806968 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.818944 Pula rodzicow, liczba osobnikow: 128
+2022-02-28 04:25:50.818963 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.829985 DZIECI po krzyzowanie Rodzicow ---> new Generation 254
+2022-02-28 04:25:50.830083 -- generations -- liczba osobników w nowym pokoleniu 254
+2022-02-28 04:25:50.840997 Koszt minimalny/najkrotsza trasa 4077.0
+2022-02-28 04:25:50.841034 Koszt minimalny/najkrotsza trasa dla pokolenia nr 48 : 4077.0
+2022-02-28 04:25:50.841040 -- pokolenie nr 49
+2022-02-28 04:25:50.841045 ----> na wejsciu population, liczba osobnikow: 254
+2022-02-28 04:25:50.841049 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.853640 Pula rodzicow, liczba osobnikow: 127
+2022-02-28 04:25:50.853661 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.863622 DZIECI po krzyzowanie Rodzicow ---> new Generation 252
+2022-02-28 04:25:50.863752 -- generations -- liczba osobników w nowym pokoleniu 252
+2022-02-28 04:25:50.874087 Koszt minimalny/najkrotsza trasa 4121.5
+2022-02-28 04:25:50.874115 Koszt minimalny/najkrotsza trasa dla pokolenia nr 49 : 4121.5
+2022-02-28 04:25:50.874121 -- pokolenie nr 50
+2022-02-28 04:25:50.874126 ----> na wejsciu population, liczba osobnikow: 252
+2022-02-28 04:25:50.874129 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.885888 Pula rodzicow, liczba osobnikow: 126
+2022-02-28 04:25:50.885902 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.895257 DZIECI po krzyzowanie Rodzicow ---> new Generation 250
+2022-02-28 04:25:50.895333 -- generations -- liczba osobników w nowym pokoleniu 250
+2022-02-28 04:25:50.905886 Koszt minimalny/najkrotsza trasa 4000.5
+2022-02-28 04:25:50.905921 Koszt minimalny/najkrotsza trasa dla pokolenia nr 50 : 4000.5
+2022-02-28 04:25:50.905928 -- pokolenie nr 51
+2022-02-28 04:25:50.905933 ----> na wejsciu population, liczba osobnikow: 250
+2022-02-28 04:25:50.905937 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.917234 Pula rodzicow, liczba osobnikow: 125
+2022-02-28 04:25:50.917250 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.926981 DZIECI po krzyzowanie Rodzicow ---> new Generation 248
+2022-02-28 04:25:50.927059 -- generations -- liczba osobników w nowym pokoleniu 248
+2022-02-28 04:25:50.937469 Koszt minimalny/najkrotsza trasa 4150.0
+2022-02-28 04:25:50.937503 Koszt minimalny/najkrotsza trasa dla pokolenia nr 51 : 4150.0
+2022-02-28 04:25:50.937509 -- pokolenie nr 52
+2022-02-28 04:25:50.937515 ----> na wejsciu population, liczba osobnikow: 248
+2022-02-28 04:25:50.937519 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.948979 Pula rodzicow, liczba osobnikow: 124
+2022-02-28 04:25:50.948994 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.958353 DZIECI po krzyzowanie Rodzicow ---> new Generation 246
+2022-02-28 04:25:50.958438 -- generations -- liczba osobników w nowym pokoleniu 246
+2022-02-28 04:25:50.968708 Koszt minimalny/najkrotsza trasa 4072.5
+2022-02-28 04:25:50.968740 Koszt minimalny/najkrotsza trasa dla pokolenia nr 52 : 4072.5
+2022-02-28 04:25:50.968746 -- pokolenie nr 53
+2022-02-28 04:25:50.968751 ----> na wejsciu population, liczba osobnikow: 246
+2022-02-28 04:25:50.968754 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:50.979871 Pula rodzicow, liczba osobnikow: 123
+2022-02-28 04:25:50.979887 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:50.989447 DZIECI po krzyzowanie Rodzicow ---> new Generation 244
+2022-02-28 04:25:50.989533 -- generations -- liczba osobników w nowym pokoleniu 244
+2022-02-28 04:25:50.999801 Koszt minimalny/najkrotsza trasa 4073.5
+2022-02-28 04:25:50.999832 Koszt minimalny/najkrotsza trasa dla pokolenia nr 53 : 4073.5
+2022-02-28 04:25:50.999837 -- pokolenie nr 54
+2022-02-28 04:25:50.999842 ----> na wejsciu population, liczba osobnikow: 244
+2022-02-28 04:25:50.999845 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.011718 Pula rodzicow, liczba osobnikow: 122
+2022-02-28 04:25:51.011739 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.021324 DZIECI po krzyzowanie Rodzicow ---> new Generation 242
+2022-02-28 04:25:51.021417 -- generations -- liczba osobników w nowym pokoleniu 242
+2022-02-28 04:25:51.032742 Koszt minimalny/najkrotsza trasa 4076.0
+2022-02-28 04:25:51.032781 Koszt minimalny/najkrotsza trasa dla pokolenia nr 54 : 4076.0
+2022-02-28 04:25:51.032787 -- pokolenie nr 55
+2022-02-28 04:25:51.032795 ----> na wejsciu population, liczba osobnikow: 242
+2022-02-28 04:25:51.032798 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.059626 Pula rodzicow, liczba osobnikow: 121
+2022-02-28 04:25:51.059654 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.071706 DZIECI po krzyzowanie Rodzicow ---> new Generation 240
+2022-02-28 04:25:51.071802 -- generations -- liczba osobników w nowym pokoleniu 240
+2022-02-28 04:25:51.082381 Koszt minimalny/najkrotsza trasa 4077.5
+2022-02-28 04:25:51.082418 Koszt minimalny/najkrotsza trasa dla pokolenia nr 55 : 4077.5
+2022-02-28 04:25:51.082425 -- pokolenie nr 56
+2022-02-28 04:25:51.082430 ----> na wejsciu population, liczba osobnikow: 240
+2022-02-28 04:25:51.082434 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.093519 Pula rodzicow, liczba osobnikow: 120
+2022-02-28 04:25:51.093544 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.103260 DZIECI po krzyzowanie Rodzicow ---> new Generation 238
+2022-02-28 04:25:51.103392 -- generations -- liczba osobników w nowym pokoleniu 238
+2022-02-28 04:25:51.113537 Koszt minimalny/najkrotsza trasa 4123.5
+2022-02-28 04:25:51.113607 Koszt minimalny/najkrotsza trasa dla pokolenia nr 56 : 4123.5
+2022-02-28 04:25:51.113621 -- pokolenie nr 57
+2022-02-28 04:25:51.113627 ----> na wejsciu population, liczba osobnikow: 238
+2022-02-28 04:25:51.113631 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.124684 Pula rodzicow, liczba osobnikow: 119
+2022-02-28 04:25:51.124703 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.134415 DZIECI po krzyzowanie Rodzicow ---> new Generation 236
+2022-02-28 04:25:51.134522 -- generations -- liczba osobników w nowym pokoleniu 236
+2022-02-28 04:25:51.144153 Koszt minimalny/najkrotsza trasa 4163.5
+2022-02-28 04:25:51.144183 Koszt minimalny/najkrotsza trasa dla pokolenia nr 57 : 4163.5
+2022-02-28 04:25:51.144189 -- pokolenie nr 58
+2022-02-28 04:25:51.144194 ----> na wejsciu population, liczba osobnikow: 236
+2022-02-28 04:25:51.144198 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.155578 Pula rodzicow, liczba osobnikow: 118
+2022-02-28 04:25:51.155600 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.165267 DZIECI po krzyzowanie Rodzicow ---> new Generation 234
+2022-02-28 04:25:51.165373 -- generations -- liczba osobników w nowym pokoleniu 234
+2022-02-28 04:25:51.175078 Koszt minimalny/najkrotsza trasa 4121.5
+2022-02-28 04:25:51.175104 Koszt minimalny/najkrotsza trasa dla pokolenia nr 58 : 4121.5
+2022-02-28 04:25:51.175110 -- pokolenie nr 59
+2022-02-28 04:25:51.175114 ----> na wejsciu population, liczba osobnikow: 234
+2022-02-28 04:25:51.175117 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.186098 Pula rodzicow, liczba osobnikow: 117
+2022-02-28 04:25:51.186119 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.195239 DZIECI po krzyzowanie Rodzicow ---> new Generation 232
+2022-02-28 04:25:51.195332 -- generations -- liczba osobników w nowym pokoleniu 232
+2022-02-28 04:25:51.205178 Koszt minimalny/najkrotsza trasa 4116.0
+2022-02-28 04:25:51.205215 Koszt minimalny/najkrotsza trasa dla pokolenia nr 59 : 4116.0
+2022-02-28 04:25:51.205221 -- pokolenie nr 60
+2022-02-28 04:25:51.205226 ----> na wejsciu population, liczba osobnikow: 232
+2022-02-28 04:25:51.205230 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.216183 Pula rodzicow, liczba osobnikow: 116
+2022-02-28 04:25:51.216203 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.225460 DZIECI po krzyzowanie Rodzicow ---> new Generation 230
+2022-02-28 04:25:51.225569 -- generations -- liczba osobników w nowym pokoleniu 230
+2022-02-28 04:25:51.235420 Koszt minimalny/najkrotsza trasa 4080.5
+2022-02-28 04:25:51.235459 Koszt minimalny/najkrotsza trasa dla pokolenia nr 60 : 4080.5
+2022-02-28 04:25:51.235544 -- pokolenie nr 61
+2022-02-28 04:25:51.235552 ----> na wejsciu population, liczba osobnikow: 230
+2022-02-28 04:25:51.235556 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.246227 Pula rodzicow, liczba osobnikow: 115
+2022-02-28 04:25:51.246248 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.256419 DZIECI po krzyzowanie Rodzicow ---> new Generation 228
+2022-02-28 04:25:51.256542 -- generations -- liczba osobników w nowym pokoleniu 228
+2022-02-28 04:25:51.266526 Koszt minimalny/najkrotsza trasa 4102.5
+2022-02-28 04:25:51.266564 Koszt minimalny/najkrotsza trasa dla pokolenia nr 61 : 4102.5
+2022-02-28 04:25:51.266571 -- pokolenie nr 62
+2022-02-28 04:25:51.266576 ----> na wejsciu population, liczba osobnikow: 228
+2022-02-28 04:25:51.266580 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.276913 Pula rodzicow, liczba osobnikow: 114
+2022-02-28 04:25:51.276930 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.285813 DZIECI po krzyzowanie Rodzicow ---> new Generation 226
+2022-02-28 04:25:51.285927 -- generations -- liczba osobników w nowym pokoleniu 226
+2022-02-28 04:25:51.295314 Koszt minimalny/najkrotsza trasa 4097.0
+2022-02-28 04:25:51.295344 Koszt minimalny/najkrotsza trasa dla pokolenia nr 62 : 4097.0
+2022-02-28 04:25:51.295349 -- pokolenie nr 63
+2022-02-28 04:25:51.295355 ----> na wejsciu population, liczba osobnikow: 226
+2022-02-28 04:25:51.295358 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.306396 Pula rodzicow, liczba osobnikow: 113
+2022-02-28 04:25:51.306418 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.315819 DZIECI po krzyzowanie Rodzicow ---> new Generation 224
+2022-02-28 04:25:51.315936 -- generations -- liczba osobników w nowym pokoleniu 224
+2022-02-28 04:25:51.325315 Koszt minimalny/najkrotsza trasa 4076.0
+2022-02-28 04:25:51.325343 Koszt minimalny/najkrotsza trasa dla pokolenia nr 63 : 4076.0
+2022-02-28 04:25:51.325350 -- pokolenie nr 64
+2022-02-28 04:25:51.325355 ----> na wejsciu population, liczba osobnikow: 224
+2022-02-28 04:25:51.325359 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.336241 Pula rodzicow, liczba osobnikow: 112
+2022-02-28 04:25:51.336271 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.345417 DZIECI po krzyzowanie Rodzicow ---> new Generation 222
+2022-02-28 04:25:51.345519 -- generations -- liczba osobników w nowym pokoleniu 222
+2022-02-28 04:25:51.355110 Koszt minimalny/najkrotsza trasa 4130.0
+2022-02-28 04:25:51.355146 Koszt minimalny/najkrotsza trasa dla pokolenia nr 64 : 4130.0
+2022-02-28 04:25:51.355152 -- pokolenie nr 65
+2022-02-28 04:25:51.355158 ----> na wejsciu population, liczba osobnikow: 222
+2022-02-28 04:25:51.355162 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.365883 Pula rodzicow, liczba osobnikow: 111
+2022-02-28 04:25:51.365904 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.374701 DZIECI po krzyzowanie Rodzicow ---> new Generation 220
+2022-02-28 04:25:51.374777 -- generations -- liczba osobników w nowym pokoleniu 220
+2022-02-28 04:25:51.384257 Koszt minimalny/najkrotsza trasa 4145.5
+2022-02-28 04:25:51.384292 Koszt minimalny/najkrotsza trasa dla pokolenia nr 65 : 4145.5
+2022-02-28 04:25:51.384298 -- pokolenie nr 66
+2022-02-28 04:25:51.384302 ----> na wejsciu population, liczba osobnikow: 220
+2022-02-28 04:25:51.384306 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.394263 Pula rodzicow, liczba osobnikow: 110
+2022-02-28 04:25:51.394277 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.403641 DZIECI po krzyzowanie Rodzicow ---> new Generation 218
+2022-02-28 04:25:51.403744 -- generations -- liczba osobników w nowym pokoleniu 218
+2022-02-28 04:25:51.412805 Koszt minimalny/najkrotsza trasa 3967.5
+2022-02-28 04:25:51.412837 Koszt minimalny/najkrotsza trasa dla pokolenia nr 66 : 3967.5
+2022-02-28 04:25:51.412843 -- pokolenie nr 67
+2022-02-28 04:25:51.412848 ----> na wejsciu population, liczba osobnikow: 218
+2022-02-28 04:25:51.412852 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.423289 Pula rodzicow, liczba osobnikow: 109
+2022-02-28 04:25:51.423310 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.432171 DZIECI po krzyzowanie Rodzicow ---> new Generation 216
+2022-02-28 04:25:51.432278 -- generations -- liczba osobników w nowym pokoleniu 216
+2022-02-28 04:25:51.441200 Koszt minimalny/najkrotsza trasa 4010.5
+2022-02-28 04:25:51.441221 Koszt minimalny/najkrotsza trasa dla pokolenia nr 67 : 4010.5
+2022-02-28 04:25:51.441226 -- pokolenie nr 68
+2022-02-28 04:25:51.441231 ----> na wejsciu population, liczba osobnikow: 216
+2022-02-28 04:25:51.441234 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.451241 Pula rodzicow, liczba osobnikow: 108
+2022-02-28 04:25:51.451270 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.459967 DZIECI po krzyzowanie Rodzicow ---> new Generation 214
+2022-02-28 04:25:51.460051 -- generations -- liczba osobników w nowym pokoleniu 214
+2022-02-28 04:25:51.469718 Koszt minimalny/najkrotsza trasa 3933.5
+2022-02-28 04:25:51.469760 Koszt minimalny/najkrotsza trasa dla pokolenia nr 68 : 3933.5
+2022-02-28 04:25:51.469767 -- pokolenie nr 69
+2022-02-28 04:25:51.469773 ----> na wejsciu population, liczba osobnikow: 214
+2022-02-28 04:25:51.469777 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.479711 Pula rodzicow, liczba osobnikow: 107
+2022-02-28 04:25:51.479722 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.489221 DZIECI po krzyzowanie Rodzicow ---> new Generation 212
+2022-02-28 04:25:51.489346 -- generations -- liczba osobników w nowym pokoleniu 212
+2022-02-28 04:25:51.499713 Koszt minimalny/najkrotsza trasa 4029.0
+2022-02-28 04:25:51.499749 Koszt minimalny/najkrotsza trasa dla pokolenia nr 69 : 4029.0
+2022-02-28 04:25:51.499756 -- pokolenie nr 70
+2022-02-28 04:25:51.499761 ----> na wejsciu population, liczba osobnikow: 212
+2022-02-28 04:25:51.499764 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.509660 Pula rodzicow, liczba osobnikow: 106
+2022-02-28 04:25:51.509675 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.519007 DZIECI po krzyzowanie Rodzicow ---> new Generation 210
+2022-02-28 04:25:51.519110 -- generations -- liczba osobników w nowym pokoleniu 210
+2022-02-28 04:25:51.528044 Koszt minimalny/najkrotsza trasa 3945.5
+2022-02-28 04:25:51.528082 Koszt minimalny/najkrotsza trasa dla pokolenia nr 70 : 3945.5
+2022-02-28 04:25:51.528089 -- pokolenie nr 71
+2022-02-28 04:25:51.528094 ----> na wejsciu population, liczba osobnikow: 210
+2022-02-28 04:25:51.528098 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.539019 Pula rodzicow, liczba osobnikow: 105
+2022-02-28 04:25:51.539041 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.547194 DZIECI po krzyzowanie Rodzicow ---> new Generation 208
+2022-02-28 04:25:51.547363 -- generations -- liczba osobników w nowym pokoleniu 208
+2022-02-28 04:25:51.556425 Koszt minimalny/najkrotsza trasa 3904.5
+2022-02-28 04:25:51.556464 Koszt minimalny/najkrotsza trasa dla pokolenia nr 71 : 3904.5
+2022-02-28 04:25:51.556471 -- pokolenie nr 72
+2022-02-28 04:25:51.556477 ----> na wejsciu population, liczba osobnikow: 208
+2022-02-28 04:25:51.556481 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.566898 Pula rodzicow, liczba osobnikow: 104
+2022-02-28 04:25:51.566920 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.575003 DZIECI po krzyzowanie Rodzicow ---> new Generation 206
+2022-02-28 04:25:51.575084 -- generations -- liczba osobników w nowym pokoleniu 206
+2022-02-28 04:25:51.584943 Koszt minimalny/najkrotsza trasa 3970.5
+2022-02-28 04:25:51.584982 Koszt minimalny/najkrotsza trasa dla pokolenia nr 72 : 3970.5
+2022-02-28 04:25:51.584993 -- pokolenie nr 73
+2022-02-28 04:25:51.584998 ----> na wejsciu population, liczba osobnikow: 206
+2022-02-28 04:25:51.585003 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.595251 Pula rodzicow, liczba osobnikow: 103
+2022-02-28 04:25:51.595273 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.606178 DZIECI po krzyzowanie Rodzicow ---> new Generation 204
+2022-02-28 04:25:51.606275 -- generations -- liczba osobników w nowym pokoleniu 204
+2022-02-28 04:25:51.617546 Koszt minimalny/najkrotsza trasa 3908.5
+2022-02-28 04:25:51.617581 Koszt minimalny/najkrotsza trasa dla pokolenia nr 73 : 3908.5
+2022-02-28 04:25:51.617588 -- pokolenie nr 74
+2022-02-28 04:25:51.617594 ----> na wejsciu population, liczba osobnikow: 204
+2022-02-28 04:25:51.617598 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.628097 Pula rodzicow, liczba osobnikow: 102
+2022-02-28 04:25:51.628113 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.638193 DZIECI po krzyzowanie Rodzicow ---> new Generation 202
+2022-02-28 04:25:51.638386 -- generations -- liczba osobników w nowym pokoleniu 202
+2022-02-28 04:25:51.649116 Koszt minimalny/najkrotsza trasa 3955.0
+2022-02-28 04:25:51.649148 Koszt minimalny/najkrotsza trasa dla pokolenia nr 74 : 3955.0
+2022-02-28 04:25:51.649154 -- pokolenie nr 75
+2022-02-28 04:25:51.649159 ----> na wejsciu population, liczba osobnikow: 202
+2022-02-28 04:25:51.649164 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.659355 Pula rodzicow, liczba osobnikow: 101
+2022-02-28 04:25:51.659412 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.669626 DZIECI po krzyzowanie Rodzicow ---> new Generation 200
+2022-02-28 04:25:51.669758 -- generations -- liczba osobników w nowym pokoleniu 200
+2022-02-28 04:25:51.680630 Koszt minimalny/najkrotsza trasa 3943.0
+2022-02-28 04:25:51.680666 Koszt minimalny/najkrotsza trasa dla pokolenia nr 75 : 3943.0
+2022-02-28 04:25:51.680672 -- pokolenie nr 76
+2022-02-28 04:25:51.680678 ----> na wejsciu population, liczba osobnikow: 200
+2022-02-28 04:25:51.680681 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.691312 Pula rodzicow, liczba osobnikow: 100
+2022-02-28 04:25:51.691334 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.700073 DZIECI po krzyzowanie Rodzicow ---> new Generation 198
+2022-02-28 04:25:51.700160 -- generations -- liczba osobników w nowym pokoleniu 198
+2022-02-28 04:25:51.708514 Koszt minimalny/najkrotsza trasa 4006.5
+2022-02-28 04:25:51.708546 Koszt minimalny/najkrotsza trasa dla pokolenia nr 76 : 4006.5
+2022-02-28 04:25:51.708551 -- pokolenie nr 77
+2022-02-28 04:25:51.708556 ----> na wejsciu population, liczba osobnikow: 198
+2022-02-28 04:25:51.708559 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.719494 Pula rodzicow, liczba osobnikow: 99
+2022-02-28 04:25:51.719516 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.727867 DZIECI po krzyzowanie Rodzicow ---> new Generation 196
+2022-02-28 04:25:51.727984 -- generations -- liczba osobników w nowym pokoleniu 196
+2022-02-28 04:25:51.738994 Koszt minimalny/najkrotsza trasa 3942.5
+2022-02-28 04:25:51.739028 Koszt minimalny/najkrotsza trasa dla pokolenia nr 77 : 3942.5
+2022-02-28 04:25:51.739035 -- pokolenie nr 78
+2022-02-28 04:25:51.739041 ----> na wejsciu population, liczba osobnikow: 196
+2022-02-28 04:25:51.739045 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.751583 Pula rodzicow, liczba osobnikow: 98
+2022-02-28 04:25:51.751609 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.762578 DZIECI po krzyzowanie Rodzicow ---> new Generation 194
+2022-02-28 04:25:51.762766 -- generations -- liczba osobników w nowym pokoleniu 194
+2022-02-28 04:25:51.778237 Koszt minimalny/najkrotsza trasa 3914.5
+2022-02-28 04:25:51.778289 Koszt minimalny/najkrotsza trasa dla pokolenia nr 78 : 3914.5
+2022-02-28 04:25:51.778299 -- pokolenie nr 79
+2022-02-28 04:25:51.778307 ----> na wejsciu population, liczba osobnikow: 194
+2022-02-28 04:25:51.778313 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.790320 Pula rodzicow, liczba osobnikow: 97
+2022-02-28 04:25:51.790336 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.800304 DZIECI po krzyzowanie Rodzicow ---> new Generation 192
+2022-02-28 04:25:51.800424 -- generations -- liczba osobników w nowym pokoleniu 192
+2022-02-28 04:25:51.809150 Koszt minimalny/najkrotsza trasa 3831.0
+2022-02-28 04:25:51.809179 Koszt minimalny/najkrotsza trasa dla pokolenia nr 79 : 3831.0
+2022-02-28 04:25:51.809184 -- pokolenie nr 80
+2022-02-28 04:25:51.809189 ----> na wejsciu population, liczba osobnikow: 192
+2022-02-28 04:25:51.809192 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.819227 Pula rodzicow, liczba osobnikow: 96
+2022-02-28 04:25:51.819250 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.826936 DZIECI po krzyzowanie Rodzicow ---> new Generation 190
+2022-02-28 04:25:51.827042 -- generations -- liczba osobników w nowym pokoleniu 190
+2022-02-28 04:25:51.836178 Koszt minimalny/najkrotsza trasa 3901.0
+2022-02-28 04:25:51.836207 Koszt minimalny/najkrotsza trasa dla pokolenia nr 80 : 3901.0
+2022-02-28 04:25:51.836212 -- pokolenie nr 81
+2022-02-28 04:25:51.836217 ----> na wejsciu population, liczba osobnikow: 190
+2022-02-28 04:25:51.836220 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.845935 Pula rodzicow, liczba osobnikow: 95
+2022-02-28 04:25:51.845967 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.857872 DZIECI po krzyzowanie Rodzicow ---> new Generation 188
+2022-02-28 04:25:51.857972 -- generations -- liczba osobników w nowym pokoleniu 188
+2022-02-28 04:25:51.868216 Koszt minimalny/najkrotsza trasa 3964.0
+2022-02-28 04:25:51.868261 Koszt minimalny/najkrotsza trasa dla pokolenia nr 81 : 3964.0
+2022-02-28 04:25:51.868267 -- pokolenie nr 82
+2022-02-28 04:25:51.868273 ----> na wejsciu population, liczba osobnikow: 188
+2022-02-28 04:25:51.868276 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.877924 Pula rodzicow, liczba osobnikow: 94
+2022-02-28 04:25:51.877938 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.888750 DZIECI po krzyzowanie Rodzicow ---> new Generation 186
+2022-02-28 04:25:51.888945 -- generations -- liczba osobników w nowym pokoleniu 186
+2022-02-28 04:25:51.898539 Koszt minimalny/najkrotsza trasa 3998.5
+2022-02-28 04:25:51.898569 Koszt minimalny/najkrotsza trasa dla pokolenia nr 82 : 3998.5
+2022-02-28 04:25:51.898575 -- pokolenie nr 83
+2022-02-28 04:25:51.898580 ----> na wejsciu population, liczba osobnikow: 186
+2022-02-28 04:25:51.898584 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.909269 Pula rodzicow, liczba osobnikow: 93
+2022-02-28 04:25:51.909289 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.918031 DZIECI po krzyzowanie Rodzicow ---> new Generation 184
+2022-02-28 04:25:51.918140 -- generations -- liczba osobników w nowym pokoleniu 184
+2022-02-28 04:25:51.926381 Koszt minimalny/najkrotsza trasa 3884.5
+2022-02-28 04:25:51.926416 Koszt minimalny/najkrotsza trasa dla pokolenia nr 83 : 3884.5
+2022-02-28 04:25:51.926423 -- pokolenie nr 84
+2022-02-28 04:25:51.926428 ----> na wejsciu population, liczba osobnikow: 184
+2022-02-28 04:25:51.926432 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.935948 Pula rodzicow, liczba osobnikow: 92
+2022-02-28 04:25:51.935962 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.943917 DZIECI po krzyzowanie Rodzicow ---> new Generation 182
+2022-02-28 04:25:51.944021 -- generations -- liczba osobników w nowym pokoleniu 182
+2022-02-28 04:25:51.951986 Koszt minimalny/najkrotsza trasa 3989.0
+2022-02-28 04:25:51.952021 Koszt minimalny/najkrotsza trasa dla pokolenia nr 84 : 3989.0
+2022-02-28 04:25:51.952027 -- pokolenie nr 85
+2022-02-28 04:25:51.952032 ----> na wejsciu population, liczba osobnikow: 182
+2022-02-28 04:25:51.952036 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.960595 Pula rodzicow, liczba osobnikow: 91
+2022-02-28 04:25:51.960617 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.969967 DZIECI po krzyzowanie Rodzicow ---> new Generation 180
+2022-02-28 04:25:51.970062 -- generations -- liczba osobników w nowym pokoleniu 180
+2022-02-28 04:25:51.977641 Koszt minimalny/najkrotsza trasa 3933.0
+2022-02-28 04:25:51.977670 Koszt minimalny/najkrotsza trasa dla pokolenia nr 85 : 3933.0
+2022-02-28 04:25:51.977676 -- pokolenie nr 86
+2022-02-28 04:25:51.977681 ----> na wejsciu population, liczba osobnikow: 180
+2022-02-28 04:25:51.977685 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:51.988956 Pula rodzicow, liczba osobnikow: 90
+2022-02-28 04:25:51.988976 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:51.997970 DZIECI po krzyzowanie Rodzicow ---> new Generation 178
+2022-02-28 04:25:51.998090 -- generations -- liczba osobników w nowym pokoleniu 178
+2022-02-28 04:25:52.006656 Koszt minimalny/najkrotsza trasa 3864.5
+2022-02-28 04:25:52.006695 Koszt minimalny/najkrotsza trasa dla pokolenia nr 86 : 3864.5
+2022-02-28 04:25:52.006701 -- pokolenie nr 87
+2022-02-28 04:25:52.006708 ----> na wejsciu population, liczba osobnikow: 178
+2022-02-28 04:25:52.006712 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.017550 Pula rodzicow, liczba osobnikow: 89
+2022-02-28 04:25:52.017572 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.025183 DZIECI po krzyzowanie Rodzicow ---> new Generation 176
+2022-02-28 04:25:52.025320 -- generations -- liczba osobników w nowym pokoleniu 176
+2022-02-28 04:25:52.034589 Koszt minimalny/najkrotsza trasa 3957.0
+2022-02-28 04:25:52.034619 Koszt minimalny/najkrotsza trasa dla pokolenia nr 87 : 3957.0
+2022-02-28 04:25:52.034626 -- pokolenie nr 88
+2022-02-28 04:25:52.034631 ----> na wejsciu population, liczba osobnikow: 176
+2022-02-28 04:25:52.034635 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.043740 Pula rodzicow, liczba osobnikow: 88
+2022-02-28 04:25:52.043790 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.052587 DZIECI po krzyzowanie Rodzicow ---> new Generation 174
+2022-02-28 04:25:52.052678 -- generations -- liczba osobników w nowym pokoleniu 174
+2022-02-28 04:25:52.060195 Koszt minimalny/najkrotsza trasa 3858.5
+2022-02-28 04:25:52.060221 Koszt minimalny/najkrotsza trasa dla pokolenia nr 88 : 3858.5
+2022-02-28 04:25:52.060228 -- pokolenie nr 89
+2022-02-28 04:25:52.060233 ----> na wejsciu population, liczba osobnikow: 174
+2022-02-28 04:25:52.060236 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.069464 Pula rodzicow, liczba osobnikow: 87
+2022-02-28 04:25:52.069486 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.076511 DZIECI po krzyzowanie Rodzicow ---> new Generation 172
+2022-02-28 04:25:52.076598 -- generations -- liczba osobników w nowym pokoleniu 172
+2022-02-28 04:25:52.084829 Koszt minimalny/najkrotsza trasa 3875.5
+2022-02-28 04:25:52.084859 Koszt minimalny/najkrotsza trasa dla pokolenia nr 89 : 3875.5
+2022-02-28 04:25:52.084865 -- pokolenie nr 90
+2022-02-28 04:25:52.084870 ----> na wejsciu population, liczba osobnikow: 172
+2022-02-28 04:25:52.084874 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.092894 Pula rodzicow, liczba osobnikow: 86
+2022-02-28 04:25:52.092913 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.100562 DZIECI po krzyzowanie Rodzicow ---> new Generation 170
+2022-02-28 04:25:52.100659 -- generations -- liczba osobników w nowym pokoleniu 170
+2022-02-28 04:25:52.107893 Koszt minimalny/najkrotsza trasa 3821.0
+2022-02-28 04:25:52.107920 Koszt minimalny/najkrotsza trasa dla pokolenia nr 90 : 3821.0
+2022-02-28 04:25:52.107928 -- pokolenie nr 91
+2022-02-28 04:25:52.107933 ----> na wejsciu population, liczba osobnikow: 170
+2022-02-28 04:25:52.107936 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.116758 Pula rodzicow, liczba osobnikow: 85
+2022-02-28 04:25:52.116778 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.123422 DZIECI po krzyzowanie Rodzicow ---> new Generation 168
+2022-02-28 04:25:52.123508 -- generations -- liczba osobników w nowym pokoleniu 168
+2022-02-28 04:25:52.131847 Koszt minimalny/najkrotsza trasa 3780.5
+2022-02-28 04:25:52.131883 Koszt minimalny/najkrotsza trasa dla pokolenia nr 91 : 3780.5
+2022-02-28 04:25:52.131890 -- pokolenie nr 92
+2022-02-28 04:25:52.131896 ----> na wejsciu population, liczba osobnikow: 168
+2022-02-28 04:25:52.131899 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.139678 Pula rodzicow, liczba osobnikow: 84
+2022-02-28 04:25:52.139691 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.147679 DZIECI po krzyzowanie Rodzicow ---> new Generation 166
+2022-02-28 04:25:52.147848 -- generations -- liczba osobników w nowym pokoleniu 166
+2022-02-28 04:25:52.154698 Koszt minimalny/najkrotsza trasa 3880.0
+2022-02-28 04:25:52.154729 Koszt minimalny/najkrotsza trasa dla pokolenia nr 92 : 3880.0
+2022-02-28 04:25:52.154736 -- pokolenie nr 93
+2022-02-28 04:25:52.154742 ----> na wejsciu population, liczba osobnikow: 166
+2022-02-28 04:25:52.154745 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.162556 Pula rodzicow, liczba osobnikow: 83
+2022-02-28 04:25:52.162570 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.169578 DZIECI po krzyzowanie Rodzicow ---> new Generation 164
+2022-02-28 04:25:52.169675 -- generations -- liczba osobników w nowym pokoleniu 164
+2022-02-28 04:25:52.176746 Koszt minimalny/najkrotsza trasa 3904.5
+2022-02-28 04:25:52.176770 Koszt minimalny/najkrotsza trasa dla pokolenia nr 93 : 3904.5
+2022-02-28 04:25:52.176776 -- pokolenie nr 94
+2022-02-28 04:25:52.176781 ----> na wejsciu population, liczba osobnikow: 164
+2022-02-28 04:25:52.176785 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.185484 Pula rodzicow, liczba osobnikow: 82
+2022-02-28 04:25:52.185504 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.192193 DZIECI po krzyzowanie Rodzicow ---> new Generation 162
+2022-02-28 04:25:52.192295 -- generations -- liczba osobników w nowym pokoleniu 162
+2022-02-28 04:25:52.200242 Koszt minimalny/najkrotsza trasa 3877.0
+2022-02-28 04:25:52.200277 Koszt minimalny/najkrotsza trasa dla pokolenia nr 94 : 3877.0
+2022-02-28 04:25:52.200284 -- pokolenie nr 95
+2022-02-28 04:25:52.200289 ----> na wejsciu population, liczba osobnikow: 162
+2022-02-28 04:25:52.200293 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.207803 Pula rodzicow, liczba osobnikow: 81
+2022-02-28 04:25:52.207815 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.214976 DZIECI po krzyzowanie Rodzicow ---> new Generation 160
+2022-02-28 04:25:52.215079 -- generations -- liczba osobników w nowym pokoleniu 160
+2022-02-28 04:25:52.221858 Koszt minimalny/najkrotsza trasa 3938.0
+2022-02-28 04:25:52.221882 Koszt minimalny/najkrotsza trasa dla pokolenia nr 95 : 3938.0
+2022-02-28 04:25:52.221888 -- pokolenie nr 96
+2022-02-28 04:25:52.221894 ----> na wejsciu population, liczba osobnikow: 160
+2022-02-28 04:25:52.221898 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.230372 Pula rodzicow, liczba osobnikow: 80
+2022-02-28 04:25:52.230420 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.237136 DZIECI po krzyzowanie Rodzicow ---> new Generation 158
+2022-02-28 04:25:52.237230 -- generations -- liczba osobników w nowym pokoleniu 158
+2022-02-28 04:25:52.245152 Koszt minimalny/najkrotsza trasa 3813.0
+2022-02-28 04:25:52.245198 Koszt minimalny/najkrotsza trasa dla pokolenia nr 96 : 3813.0
+2022-02-28 04:25:52.245205 -- pokolenie nr 97
+2022-02-28 04:25:52.245211 ----> na wejsciu population, liczba osobnikow: 158
+2022-02-28 04:25:52.245214 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.254636 Pula rodzicow, liczba osobnikow: 79
+2022-02-28 04:25:52.254656 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.260668 DZIECI po krzyzowanie Rodzicow ---> new Generation 156
+2022-02-28 04:25:52.260750 -- generations -- liczba osobników w nowym pokoleniu 156
+2022-02-28 04:25:52.268251 Koszt minimalny/najkrotsza trasa 3832.5
+2022-02-28 04:25:52.268285 Koszt minimalny/najkrotsza trasa dla pokolenia nr 97 : 3832.5
+2022-02-28 04:25:52.268292 -- pokolenie nr 98
+2022-02-28 04:25:52.268297 ----> na wejsciu population, liczba osobnikow: 156
+2022-02-28 04:25:52.268302 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.275789 Pula rodzicow, liczba osobnikow: 78
+2022-02-28 04:25:52.275801 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.283123 DZIECI po krzyzowanie Rodzicow ---> new Generation 154
+2022-02-28 04:25:52.283208 -- generations -- liczba osobników w nowym pokoleniu 154
+2022-02-28 04:25:52.289552 Koszt minimalny/najkrotsza trasa 3806.5
+2022-02-28 04:25:52.289578 Koszt minimalny/najkrotsza trasa dla pokolenia nr 98 : 3806.5
+2022-02-28 04:25:52.289584 -- pokolenie nr 99
+2022-02-28 04:25:52.289589 ----> na wejsciu population, liczba osobnikow: 154
+2022-02-28 04:25:52.289593 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.297751 Pula rodzicow, liczba osobnikow: 77
+2022-02-28 04:25:52.297788 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.304381 DZIECI po krzyzowanie Rodzicow ---> new Generation 152
+2022-02-28 04:25:52.304471 -- generations -- liczba osobników w nowym pokoleniu 152
+2022-02-28 04:25:52.310906 Koszt minimalny/najkrotsza trasa 3697.0
+2022-02-28 04:25:52.310934 Koszt minimalny/najkrotsza trasa dla pokolenia nr 99 : 3697.0
+2022-02-28 04:25:52.310940 -- pokolenie nr 100
+2022-02-28 04:25:52.310945 ----> na wejsciu population, liczba osobnikow: 152
+2022-02-28 04:25:52.310949 ----> na wejsciu rodzicow, liczba osobnikow: 0
+2022-02-28 04:25:52.318337 Pula rodzicow, liczba osobnikow: 76
+2022-02-28 04:25:52.318358 ile osobnikow zostalo w populacji poczatkowej - wygina!: 0
+2022-02-28 04:25:52.324296 DZIECI po krzyzowanie Rodzicow ---> new Generation 150
+2022-02-28 04:25:52.324377 -- generations -- liczba osobników w nowym pokoleniu 150
+2022-02-28 04:25:52.331312 Koszt minimalny/najkrotsza trasa 3755.0
+2022-02-28 04:25:52.331352 Koszt minimalny/najkrotsza trasa dla pokolenia nr 100 : 3755.0
+2022-02-28 04:25:52.331363 Koszt minimalny/najkrotsza trasa w ostatnim pokoleniu populacji: 3755.0
