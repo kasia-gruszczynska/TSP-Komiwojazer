@@ -70,7 +70,7 @@ def binTounamentSelection(population, costTable, passThreshold):
     pair = random.sample(range(0, len(population)), 2)
     # print("para", pair)
 
-    print(datetime.datetime.now(), "IN --- binTounamentSelection -- liczba w populacji", len(population))
+    # print(datetime.datetime.now(), "IN --- binTounamentSelection -- liczba w populacji", len(population))
     # print("population", population)
 
     if fnDopasowania(population, costTable, pair[0]) < fnDopasowania(population, costTable, pair[1]):
@@ -95,7 +95,7 @@ def binTounamentSelection(population, costTable, passThreshold):
             del population[pair[0]] # osobnik usuniety przez fn dopasowania
             del population[pair[1]] # juz nie moze byc drugi raz rodzicem, usuwam z populacji potencjalnych rodzicow
 
-    print(datetime.datetime.now(), "OUT --- binTounamentSelection -- liczba w populacji", len(population))
+    # print(datetime.datetime.now(), "OUT --- binTounamentSelection -- liczba w populacji", len(population))
     # print("population", population)
     # print(datetime.datetime.now(), "OUT --- binTounamentSelection -- liczba rodzicow SO FAR", len(rodzic))
     # print("rodzic", rodzic)
